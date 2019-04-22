@@ -1,10 +1,12 @@
 ## CSC 360: Operating Systems
 University of Victoria, Summer 2018
 
-* Assignment 1: Simple Unix Shell
-* Assignment 2: POSIX Concurrency
-* Assignment 3: CPU Scheduling
-* Assignment 4: File System Management
+1. Simple Unix Shell
+2. POSIX Concurrency
+* Readers-Writers Problem
+* Meetup and Barriers Problem
+3. CPU Scheduling
+4. File System Management
 
 
 
