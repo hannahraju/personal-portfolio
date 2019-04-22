@@ -1,7 +1,7 @@
 ## Simple UNIX Shell
 
 CSC 360 Assignment 1 <br />
-Summer 2018
+Summer 2018 <br />
 Prof. Michael Zastre
 
 ### Assignment Specificications
