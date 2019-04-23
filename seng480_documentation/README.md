@@ -1,11 +1,11 @@
 ## SENG 480A: Documenting and Understanding Software Systems
-University of Victoria, Spring 2019
+University of Victoria, Summer 2019
 Prof. Neil Ernst
 
-Learning Outcomes of Course:
+Key Concepts Covered:
 - Understanding software architecture
 - Software quality attributes
 - Architecturally significant requirements
 - Module (static) and Component & Connector (runtime) views 
 - Architecture-driven design
-- Code quality and technical debt
+- Analyzing code quality and technical debt using tools such as SonarQube and PyLint
