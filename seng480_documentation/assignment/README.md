@@ -1,4 +1,4 @@
-## Examining Modifiability and Modularization in JSettlers
+## Assignment: Examining Modifiability and Modularization in JSettlers
 
 SENG 480A Assignment <br />
 Summer 2019 <br />
@@ -7,7 +7,7 @@ Prof. Neil Ernst
 ### Assignment Specificications
 
 - Choose quality attribute and construct a scenario
-- Examine the source code of an open source project ([JSettlers](https://github.com/jdmonin/JSettlers2) )
+- Examine the source code of an open source project ([JSettlers](https://github.com/jdmonin/JSettlers2))
 - Document how well the source code acts to realize the scenario
 
 ### Key Concepts Covered
