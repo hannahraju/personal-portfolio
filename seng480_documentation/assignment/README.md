@@ -7,7 +7,7 @@ Prof. Neil Ernst
 ### Assignment Specificications
 
 - Choose quality attribute and construct a scenario
-- Examine the source code of an open source project 
+- Examine the source code of an open source project ([JSettlers](https://github.com/jdmonin/JSettlers2) )
 - Document how well the source code acts to realize the scenario
 
 ### Key Concepts Covered
